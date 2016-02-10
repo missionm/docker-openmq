@@ -1,5 +1,5 @@
 FROM java:8-jdk
-MAINTAINER Ladislav Gazo <gazo@seges.sk>
+MAINTAINER Scott Anderson <scott.anderson@missionmode.com>
 
 ENV OPENMQ_VERSION 4.5
 ENV OPENMQ_ARCHIVE openmq4_5-binary-Linux_X86.zip
